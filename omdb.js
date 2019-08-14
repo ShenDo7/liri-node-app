@@ -9,7 +9,7 @@ let omdb = (movieName) => {
 
   axios.get(queryUrl).then(
     function (response) {
-      console.log("\nRelease Year: ",  response.data[0].Year + "\nTitle: ",  response.data[0].Title);
+      console.log("\nRelease Year: ",  response.data[0].Year + "\nTitle: ",  response.data[0].Title); 
     })
     .catch(function (error) {
       if (error.response) {

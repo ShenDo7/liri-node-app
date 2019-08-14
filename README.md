@@ -9,14 +9,16 @@ The liri-node-app makes searching for information on your favorite form of enter
 The liri-node-app makes requests from Spotify, OMDB and Bands in town in order to meet your Music and Movie search needs. 
 
 ### Instructions
-![start](liri-node-app 1 copy.gif) 
+Simply run liri-node-app and liri will guide you through the search process.
 
+![Search](./images/liri-node-app.gif)
 
+### Technology Used
+* Spotify API
+* Bands in Town API
+* OMDB API
+* Axios.js
+* Moment.js
 
-4. Include screenshots, gifs or videos of the app functioning
-
-5. Contain a link to a deployed version of the app
-
-6. Clearly list the technologies used in the app
-
-7. State your role in the app development
+### Role
+Developer
