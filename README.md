@@ -9,7 +9,7 @@ The liri-node-app makes searching for information on your favorite form of enter
 The liri-node-app makes requests from Spotify, OMDB and Bands in town in order to meet your Music and Movie search needs. 
 
 ### Instructions
-![start](liri-node-app 1 copy.mp4) 
+![start](liri-node-app 1 copy.gif) 
 
 
 
